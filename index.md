@@ -19,9 +19,14 @@ version: "01/03/25"
 
 ## Guías de aprendizaje
 
-- [Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)
+- [1. Números naturales: Operaciones]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
 
-- [Números enteros: valor absoluto, suma, resta (Alternancia 2)](04_enteros1.html)
+- [2. Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)
+
+- [3. Números naturales: múltiplos, criterios de divisibilidad, números primos]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
+- [4. Números enteros: valor absoluto, suma, resta (Alternancia 2)](04_enteros1.html)
+
+- [5. Números enteros: Práctica](05_enteros2_practica.html)
 
 
 <span hidden>Fin archivo</span>
