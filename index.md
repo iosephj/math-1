@@ -28,6 +28,8 @@ version: "01/03/25"
 
 - [5. Números enteros: Práctica](05_enteros2_practica.html)
 
+- [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
+
 
 <span hidden>Fin archivo</span>
 
