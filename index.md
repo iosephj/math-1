@@ -33,7 +33,12 @@ version: "01/03/25"
 
 <span hidden>Fin archivo</span>
 
-</div>
+<br>
+
+---
+
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_mat1_25) poniendo como clave `progreso2025` y luego tu número de lista.
+
 <!-- HTML style definitions -->
 <style>
 /* Colors */
