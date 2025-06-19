@@ -30,6 +30,8 @@ version: "01/03/25"
 
 - [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
 
+- [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
+
 
 <span hidden>Fin archivo</span>
 
