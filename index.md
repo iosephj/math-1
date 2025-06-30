@@ -32,6 +32,8 @@ version: "01/03/25"
 
 - [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
 
+- [8. Números racionales (parte 1)](08_numeros_racionales.html)
+
 
 <span hidden>Fin archivo</span>
 
