@@ -1,5 +1,5 @@
 ---
-title: "Mecánica Agrícola (3° año)"
+title: "Matemática (1er año)"
 autor: "José Juarez"
 version: "01/03/25"
 ---
@@ -19,21 +19,20 @@ version: "01/03/25"
 
 ## Guías de aprendizaje
 
-- [1. Tipos de motores](01_motores.html)
+- [1. Números naturales: Operaciones]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
 
-- [2. Magnitudes y unidades usadasen mecánica](02_magnitudes_unidades.html)
+- [2. Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)
 
-- [3. Motores de 2 tiempos -parte 1 (Alternancia 1)](03_mot2t_unidades_1.html)
+- [3. Números naturales: múltiplos, criterios de divisibilidad, números primos]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
+- [4. Números enteros: valor absoluto, suma, resta (Alternancia 2)](04_enteros1.html)
 
-- [4. Motores de 2 tiempos - parte 2](04_mot2t_2.html)
+- [5. Números enteros: Práctica](05_enteros2_practica.html)
 
-- [5. Motores de 4 tiempos - parte 1 (Alternancia 2)](05_mot4t_1.html)
+- [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
 
-- [6. Motores de 4 tiempos - parte 2 (Alternancia 3)](06_motor4t_2.html)
+- [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
 
-- [7. Motores de 4 tiempos - parte 3](07_mot4t_3.html)
-
-- [8. Mantenimiento de un motor 4T - parte 1 (Alternacia 4)](08_mantenimiento_motor_4t.html)
+- [8. Números racionales (parte 1)](08_numeros_racionales.html)
 
 
 <span hidden>Fin archivo</span>
@@ -42,7 +41,7 @@ version: "01/03/25"
 
 ---
 
-**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_mec3_25) poniendo como clave `progreso2025` y luego tu número de lista.
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_mat1_25) poniendo como clave `progreso2025` y luego tu número de lista.
 
 <!-- HTML style definitions -->
 <style>
