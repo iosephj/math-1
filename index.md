@@ -13,6 +13,18 @@ version: "01/03/25"
 **Año:** 2025
 
 **Profesor:** José Juarez
+
+
+<div class="size80">
+
+**Criterios de aprobación de la materia**
+
+- **Bimestre 1:** Tener **A** en Guía 2 (Alt. 1) y Prueba 1
+- **Bimestre 2:** Tener **A** en Guía 4 (Alt. 2), Guía 6 (Alt. 3) y Prueba 2.
+- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+
+</div>
+
 </div>
 
 <br>
@@ -32,7 +44,9 @@ version: "01/03/25"
 
 - [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
 
-- [8. Números racionales (parte 1)](08_numeros_racionales.html)
+- [8. Números racionales - parte 1 (Alternancia 4)](08_numeros_racionales.html)
+
+- [9. Números racionales - parte 2 (Alternancia 5)](09_numeros_racionales2.html)
 
 
 <span hidden>Fin archivo</span>
