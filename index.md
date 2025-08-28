@@ -48,6 +48,8 @@ version: "01/03/25"
 
 - [9. Números racionales - parte 2 (Alternancia 5)](09_numeros_racionales2.html)
 
+- [10. Repaso de números racionales](10_numeros_racionales3.html)
+
 
 <span hidden>Fin archivo</span>
 
