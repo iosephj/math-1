@@ -52,6 +52,8 @@ version: "01/03/25"
 
 - [11. Fracciones y porcentajes (Alternancia 6)](11_numeros_racionales4.html)
 
+- [12. Porcentajes y regla de tres simple](12_porcentajes_regla3.html)
+
 
 <span hidden>Fin archivo</span>
 

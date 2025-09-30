@@ -7,16 +7,7 @@ version: "30/09/25"
 <span hidden>Local path of the file: "H:/cfr/mat1/"</span>
 <span hidden>Local path of images: "H:/cfr/mat1/_i/"</span>
 
-<!-- Image -->
 <br>
-   <center>![](){width=400px}</center>
-   <center>
-      <span class="grey3 size70">. </span>
-      <span class="grey3 size50">Fuente: </span>
-   </center>
-<br>
-
-
 
 <!-- *** GUIDE START *** -->
 
