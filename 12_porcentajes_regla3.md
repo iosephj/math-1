@@ -100,6 +100,47 @@ Calcular aplicando regla de 3 simple y simplificando:
 **6.** 82% de 3500
 
 
+<br><br>
+
+
+## Cálculo del porcentaje que representa una cantidad (Regla de 3)
+
+Supón que estuviste viendo los autos que pasan por la ruta y de 150 que pasaron 37 eran de color azul. ¿Qué porcentaje de los autos es azul?
+
+Hay varios modos de resolver esto. Aquí vamos a resolverlo aplicando la regla de 3 simple:
+
+**Planteo:**
+
+   150 autos ───── 100%
+
+   37 autos  ───── x
+
+**Resolución:**
+
+   $x = \frac{37 \times 100}{150}$
+
+   $x = \frac{37 \times 10}{15} = \frac{370}{15} = 24,7\%$
+
+Puedes repasar esto [aquí](https://www.youtube.com/watch?v=-9x_d3dX5kA&list=PLFx6eqvnPSu6-G9r2762XHiUJOoad0CZA&index=16)
+
+
+<br><br>
+
+
+## Actividad 3
+
+Resolver aplicando regla de 3 simple:
+
+**1.** Juan compró 20 caramelos surtidos. Si 8 son de frutilla ¿qué porcentaje representan los caramelos de frutilla?
+
+
+**2.** En un aula de 43 alumnos aprobaron una prueba solo 12 ¿Qué porcentaje aprobó la prueba?
+
+
+**3.** Se presentaron 200 competidores a una maratón. De todos ellos solo 15 cruzaron la meta en menos de 3 hs. Si no hubo ningún abandono ¿qué porcentaje cruzó la meta en más de 3 horas?
+
+
+
 
 
 
