@@ -54,6 +54,8 @@ version: "01/03/25"
 
 - [12. Porcentajes y regla de tres simple](12_porcentajes_regla3.html)
 
+- [13. Integrar fracciones, porcentajes y regla de 3 (Alternancia 7)](13_integrar_racionales_porcentajes_regla3.html)
+
 
 <span hidden>Fin archivo</span>
 
