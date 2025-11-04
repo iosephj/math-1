@@ -61,6 +61,7 @@ version: "01/03/25"
 
 - [13. Integrar fracciones, porcentajes y regla de 3 (Alternancia 7)](13_integrar_racionales_porcentajes_regla3.html)
 
+- [14. Área y perímetro (Alternancia 8)](14_geom_area_perimetro.html)
 
 <span hidden>Fin archivo</span>
 
