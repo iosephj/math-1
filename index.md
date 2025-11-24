@@ -25,6 +25,8 @@ version: "01/03/25"
 
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
    + **Bimestre 3:** Tener **A** en Guía 8 (Alt. 4), Guía 9 (Alt. 5), Guía 11 (Alt 6) y Prueba 3
+   + **Bimestre 4:** Tener **A** en Guía 14 (Alt. 8) y pruebas 4 y 5
+
 
 
 
