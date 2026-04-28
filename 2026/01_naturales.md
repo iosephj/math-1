@@ -26,7 +26,7 @@ Los números naturales son aquellos que sirven para contar cosas, por ejemplo 2 
 
 <br>
 
-### 1. Sumas y restas (Alternancia 1)
+### 1. Sumas y restas (Alternancia 0)
 
 Recuerda que para sumar o restar los números se acomodan empezando por la derecha.
 
@@ -34,25 +34,25 @@ Recuerda que para sumar o restar los números se acomodan empezando por la derec
 
 Sumas
 
-1) 250 + 36 + 590 = 
-2) 299 + 456 + 359 =
-3) 3245 + 160 + 1232 =
-4) 4250 + 123 + 3590 =
-5) 3250 + 360 + 4564 =
+1) 250 + 36 + 590 
+2) 299 + 456 + 359
+3) 3245 + 160 + 1232
+4) 4250 + 123 + 3590
+5) 3250 + 360 + 4564
 
 Restas
 
-6) 256 - 86 =
-7) 509 - 456 =
-8) 1258 - 160 =
-9) 1364 - 623 =
-10) 6255 - 2345 =
+6) 256 - 86
+7) 509 - 456
+8) 1258 - 160
+9) 1364 - 623
+10) 6255 - 2345
 
 **Problemas**
 
-1) En una biblioteca hay 235 libros. LLegan 48 libros nuevos y luego se prestan 63. ¿Cuántos libros quedan en la biblioteca?
-2) Un colectivo lleva 37 pasajeros . En la siguiente parada suben 15 personas y bajan 22. ¿Cuántos pasajeros quedan en el colectivo?
-3) en una campaña solidaria una escuela juntó alimentos durante tres días: el lunes juntaron 248 paquetes, el martes juntaron 176 paquetes más que el lunes, el miércoles juntaron 95 paquetes menos que el martes. Durante la semana repartieron 389 paquetes. ¿Cuántos paquetes quedaron al final?
+11) En una biblioteca hay 235 libros. LLegan 48 libros nuevos y luego se prestan 63. ¿Cuántos libros quedan en la biblioteca?
+12) Un colectivo lleva 37 pasajeros . En la siguiente parada suben 15 personas y bajan 22. ¿Cuántos pasajeros quedan en el colectivo?
+13) en una campaña solidaria una escuela juntó alimentos durante tres días: el lunes juntaron 248 paquetes, el martes juntaron 176 paquetes más que el lunes, el miércoles juntaron 95 paquetes menos que el martes. Durante la semana repartieron 389 paquetes. ¿Cuántos paquetes quedaron al final?
 
 
 <br>
@@ -70,24 +70,26 @@ Si no te acuerdas como se hacen repasa con estos videos:
 
 De ahora en adelante usamos el punto "·" para indicar una multiplicación y la barra inclinada "/" indicar una división.
 
+<div class="two-columns">
 
-<span class="grey3 size70">Pueden hacerse estas o las que se pusieron en el pizarrón en clase</span>
+1) 435 · 7
+2) 9763 · 3
+3) 23456 · 35
+4) 245 / 4
+5) 3456 / 3
+6) 29753 / 47
 
-~~~
-Multiplicaciones   Divisiones
-
-1) 435 · 7 =       1) 245 / 4 =
-2) 9763 · 3 =      2) 3456 / 3 =
-3) 23456 · 35 =    3) 29753 / 47 =
-~~~
+</div>
 
 
 <br>
 
 
-### 3. Práctica especial de divisiones (Alternancia 2)
+### 3. Práctica especial de divisiones (Alternancia 1)
 
 **Ejercicios**
+
+<div class="two-columns">
 
 1) 42600 / 3 =
 2) 12150 / 30 =
@@ -100,10 +102,12 @@ Multiplicaciones   Divisiones
 9) 11204 / 25 =
 10) 485721 / 11 =
 
+</div>
+
 **Problemas**
 
-1) Una caja tiene 6 paquetes y cada paquete tiene 4 galletitas. Si se reparten en partes iguales entre 3 chicos, ¿cuántas galletitas recibe cada uno? <span hidden>ES MUY TONTO ESTE PROBLEMA - CAMBIARLO</span>
-2) En una excursión, 8 grupos de alumnos juntan en total 960 tapitas. Cada grupo reparte sus tapitas en partes iguales entre 5 bolsas. Luego, todas las bolsas se juntan y se reparten en partes iguales entre 10 alumnos. ¿Cuántas tapitas recibe cada alumno? <span hidden>ES CONFUSO SIN NECESIDAD - CAMBIARLO</span>
+11) Una caja tiene 6 paquetes y cada paquete tiene 4 galletitas. Si se reparten en partes iguales entre 3 chicos, ¿cuántas galletitas recibe cada uno? <span hidden>ES MUY TONTO ESTE PROBLEMA - CAMBIARLO</span>
+12) En una excursión, 8 grupos de alumnos juntan en total 960 tapitas. Cada grupo reparte sus tapitas en partes iguales entre 5 bolsas. Luego, todas las bolsas se juntan y se reparten en partes iguales entre 10 alumnos. ¿Cuántas tapitas recibe cada alumno? <span hidden>ES CONFUSO SIN NECESIDAD - CAMBIARLO</span>
 
 
 <br>
@@ -111,25 +115,25 @@ Multiplicaciones   Divisiones
 
 ### 4. Multiplicación y división por la unidad seguida de ceros
 
-**Idea clave**
+**Ideas claves**
+
 - Multiplicar por 10, 100, 1000, … → agregar ceros al final. **Ej.**  43 · 100 = 4.300
 - Dividir por 10, 100, 1000, … → quitar cifras desde el final. **Ej.** 23000 / 1000 = 23  
 
 **Ejercicios**
 
-Multiplicación
+<div class="two-columns">
 
-1) $23 \cdot 10$  
-2) $47 \cdot 100$  
-3) $305 \cdot 1000$  
-4) $9 \cdot 10000$  
+1) 23 · 10  
+2) 47 · 100  
+3) 305 · 1000  
+4) 9 ·  10000  
+5) 540 / 10  
+6) 7200 / 100  
+7) 63000 / 1000  
+8) 900 / 100  
 
-División
-
-1) $540 \div 10$  
-2) $7200 \div 100$  
-3) $63000 \div 1000$  
-4) $900 \div 100$  
+</div>
 
 
 <br><br>
@@ -183,15 +187,133 @@ Te ayudan a descubrir fácilmente si un número es divisible por 2, 3, 5 y 10
 
 ### 7. Números primos
 
-- *Primos*: tienen solo dos divisores (1 y él mismo).  
-- *Compuestos*: tienen más divisores.  
+Son los números que **solamente** son divisibles por 1 y por sí mismos.
+
+**Ej.**
+
+- 3 **es primo** por que el 3 solo se puede dividir de modo exacto por 1 y por 3 (por sí mismo). 
+- 4 **no es primo** por que además de poderlo dividir por 1 y por 4 se puede dividir por 2.
 
 **Ejercicios**
 
 1) Encontrar y escribir todos los números primos entre 1 y 20
-2) Pensar si el número 48 es primo o compuesto y porque
-3) Pensar si el número 3150201 es primo y porque
+2) Explicar si el 48 es primo y porque
+3) Explicar si el número 3150201 es primo y porque
 
+
+<br>
+
+### 8. Descomponer un número en factores primos (Alternancia 2 - de aquí en adelante)
+
+Descomponer un número en factores primos consiste en dividir sucesivamente por números primos hasta llegar a 1. Mira este [video](https://www.youtube.com/watch?v=NPaBFe6QBDQ) para aprender como hacer los ejercicios.
+
+**Ejercicios:**
+
+1) Hacer la descomposición de 27 en sus factores primos. Luego hacerla también para los siguientes números: 39, 53 y 123.  
+2) En el primer ejemplo del video se descompone el número 24. Miralo nuevamente desde el inicio hasta este ejemplo y explica por que está mal descomponerlo de la siguiente manera:  
+
+```
+   24 | 2
+   12 | 2
+    6 | 6
+    1
+```
+
+
+<br>
+
+
+### 9. Propiedad distributiva de la multiplicación
+
+La propiedad distributiva nos permite repartir la multiplicación adentro del paréntesis. En este [video](https://www.youtube.com/watch?v=IVqlexUItk0) puedes ver una explicación más detallada. 
+
+**Ej.**
+
+<div class="example">
+
+8 · (7 **+** 12 **-** 9) = 
+
+= 8 · 7 **+** 8 · 12 **-** 8 · 9
+
+= 56 **+** 96 **-** 72
+
+= 152 **-** 72 
+
+**= 80**
+
+</div>
+
+**Ejercicios:** Resolver aplicando la propiedad distributiva. Sigue el proceso de resolución paso por paso del ejemplo.
+
+1) 8 · (5 + 11 - 8)
+2) 7 · (11 + 5 - 6)
+3) 18 · (3 + 10 - 5)
+4) 5 · (12 - 4 - 3)
+5) 12 · (100 - 10 - 8)
+
+<span class="grey3 size80">**Nota:** Puedes comprobar las cuentas calculando el ejercicio sin aplicar la propiedad distributiva, es decir sumando directamente el contenido del paréntesis y luego multiplicando.</span>
+
+<br>
+
+### 10. Factor común
+
+Sacar factor común es **similar** al tema anterior pero al revés. Se trata extraer el número que está presente en todas las multiplicaciones como se muestra en este fragmento de [video](https://youtubetrimmer.com/view/?v=AmTtJ5XdrGg&start=1&end=217&loop=0) (solo ver hasta el minuto 3:38). También puedes orientarte por el ejemplo de abajo:
+
+**Ej.**
+
+<div class="example">
+
+8 · 10 **+** 8 · 5 **-** 8 · 3 =  <span class = "grey3 size70">→ El 8 aparece en todas las multiplicaciones</span>
+
+= 8 · (10 **+** 5 **-** 3) <span class = "grey3 size70">→ Saco el 8 como factor común</span>
+
+= 8 · (12) <span class = "grey3 size70">→ Resuelvo el paréntesis</span>
+
+**= 96** <span class = "grey3 size70">→ Multiplico y encuentro el resultado final</span>
+
+</div>
+
+**Ejercicios:** Extraer el factor común y resolver hasta encontrar el resultado final.
+
+1) 3 · 32 + 3 · 8 - 3 · 10
+2) 5 · 10 + 5 · 6 - 5 · 8
+3) 6 · 12 + 6 · 20 - 6 · 8
+4) 4 · 8 + 4 · 3 - 10 · 4
+5) 7 · 5 + 10 · 7 - 8 · 7
+
+<span class = "grey3 size80">Para las dos últimas recuerda que el orden de los factores no altera el producto.</span>
+
+
+### 11. Problemas integradores
+
+
+1) En una huerta se cosecharon 84 tomates. Se quieren repartir en cajones iguales, colocando 6 tomates en cada cajón. ¿Cuántos cajones se pueden llenar? Si después se venden 5 cajones, ¿cuántos tomates se vendieron? ¿Cuántos tomates quedan sin vender?
+2) Juan tiene 36 caramelos de frutilla y 24 de limón. Quiere armar bolsitas iguales, poniendo la misma cantidad de cada tipo de caramelos en cada bolsita, de modo que no sobre ningún caramelo. Por ejemplo si pone 6 caramelos de frutilla en cada bolsita armará 6 bolsitas. Pero no hay modo de repartir 24 caramelos en **6** bolsitas sin que no hay sobrantes. ¿Cuantas bolsitas se pueden armar? ¿Cuántos caramelos de cada tipo va en cada una?
+
+<div hidden>
+Resolución problema 2
+
+**Datos:** 36 frutilla, 24 limón
+
+**1. “¿Qué estoy buscando?”**
+La **mayor cantidad de bolsitas iguales** → es el **máximo divisor común**. (no se enseñó)
+
+**2. Factorizamos:**
+
+36 → 2 × 2 × 3 × 3
+24 → 2 × 2 × 2 × 3
+
+**3. “¿Qué factores comparten?”**
+2 × 2 × 3 = **12**
+
+**Se pueden hacer 12 bolsitas, con 3 caramelos de frutilla y 2 caramelos de limón**
+
+
+**4. “¿Qué va en cada bolsita?”**
+36 ÷ 12 = 3 frutilla
+24 ÷ 12 = 2 limón
+
+</div>
 
 
 <!-- *** GUIDE END *** -->
@@ -236,8 +358,6 @@ Te ayudan a descubrir fácilmente si un número es divisible por 2, 3, 5 y 10
 <br><span class="grey3 size70">📘 Teoría:</span>
 <br><span class="grey3 size70">✅ Autoevaluación:</span>
 <br><span class="grey3 size70">📝 Práctica:</span>
-**1.**  **:**
-**2.** **:** 
 
 <!-- Solutions -->
 <div class="grey3 size70">.</div>
@@ -262,7 +382,7 @@ Te ayudan a descubrir fácilmente si un número es divisible por 2, 3, 5 y 10
 .rose {color: #ec9998:} /* nvim rose */
 .gold {color: #df9d43;} /* Andrew Ng gold */
 .orange1 {color: #fda556;} /* nvim orange */
-.orange2 {color: #ff9505;} /*Andrew Ng orange */
+.orange2 {color: #ff9505;} /* Andrew Ng orange */
 .purple1 {color: #ff40ff;} /* Andrew Ng purple */
 .purple2 {color: #d164d7;} /* Andrew Ng purple */
 /* Font Size */
@@ -275,12 +395,16 @@ Te ayudan a descubrir fácilmente si un número es divisible por 2, 3, 5 y 10
 /* Document General Font Size */
 body {font-size: 1.3em;}
 /* Bullet "1." see as "1)" */
-ol {
-  list-style-type: decimal;
+ol {list-style-type: decimal;}
+ol li::marker {content: counter(list-item) ") ";}
+/* Two columns */
+.two-columns {
+  column-count: 2; /* Number of columns */
+  column-gap: 20px;
 }
-ol li::marker {
-  content: counter(list-item) ") ";
-}
+/* Indent the example */
+.example {margin-left: 20px;}
+
 /* =========================
    IMPRESIÓN A4 – GUÍAS
    ========================= */
