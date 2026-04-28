@@ -1,19 +1,18 @@
 ---
 title: "Matemática (1er año)"
 autor: "José Juarez"
-version: "01/03/25"
+version: "01/03/26"
 ---
 
-<span hidden>Local path of the file: "H:/"</span>
-<span hidden>Local path of images: "H:/"</span>
 
 <br>
 
 <div class="grey3">
-**Año:** 2025
+**Año:** 2026
 
 **Profesor:** José Juarez
 
+<div hidden>
 
 <div class="size80">
 
@@ -27,7 +26,7 @@ version: "01/03/25"
    + **Bimestre 3:** Tener **A** en Guía 8 (Alt. 4), Guía 9 (Alt. 5), Guía 11 (Alt 6) y Prueba 3
    + **Bimestre 4:** Tener **A** en Guía 14 (Alt. 8) y pruebas 4 y 5
 
-
+</div>
 
 
 </div>
@@ -38,7 +37,9 @@ version: "01/03/25"
 
 ## Guías de aprendizaje
 
-- [1. Números naturales: Operaciones]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
+- [1. Números naturales](01_naturales.html) 
+
+<div hidden>
 
 - [2. Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)
 
@@ -65,6 +66,7 @@ version: "01/03/25"
 
 - [14. Área y perímetro (Alternancia 8)](14_geom_area_perimetro.html)
 
+
 <span hidden>Fin archivo</span>
 
 <br>
@@ -72,6 +74,8 @@ version: "01/03/25"
 ---
 
 **Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_mat1_25) poniendo como clave `progreso2025` y luego tu número de lista.
+
+</div> <!-- cierra el hidden de los contenidos -->
 
 <!-- HTML style definitions -->
 <style>
