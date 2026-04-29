@@ -26,7 +26,7 @@ Los números naturales son aquellos que sirven para contar cosas, por ejemplo 2 
 
 <br>
 
-### 1. Sumas y restas (Alternancia 0)
+### 1. Sumas y restas <span class="red2 size50">(Alternancia 0)</span>
 
 Recuerda que para sumar o restar los números se acomodan empezando por la derecha.
 
@@ -85,7 +85,7 @@ De ahora en adelante usamos el punto "·" para indicar una multiplicación y la 
 <br>
 
 
-### 3. Práctica especial de divisiones (Alternancia 1)
+### 3. Práctica especial de divisiones <span class="red2 size50">(Alternancia 1)</span>
 
 **Ejercicios**
 
@@ -203,7 +203,7 @@ Son los números que **solamente** son divisibles por 1 y por sí mismos.
 
 <br>
 
-### 8. Descomponer un número en factores primos (Alternancia 2 - de aquí en adelante)
+### 8. Descomponer un número en factores primos <span class="red2 size50">(Alternancia 2 - de aquí en adelante)</span>
 
 Descomponer un número en factores primos consiste en dividir sucesivamente por números primos hasta llegar a 1. Mira este [video](https://www.youtube.com/watch?v=NPaBFe6QBDQ) para aprender como hacer los ejercicios.
 
