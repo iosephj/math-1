@@ -40,6 +40,10 @@ version: "01/03/26"
 
 - [1. Números naturales](01_naturales.html) 
 
+- [2. Números enteros](02_enteros.html)
+
+- [3. Números racionales](03_racionales.html)
+
 <div hidden>
 
 - [2. Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)

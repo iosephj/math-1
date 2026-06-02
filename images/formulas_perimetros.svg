@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="105.90305mm"
+   viewBox="-2 -3 52.999888 112.257"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="formulas_perimetros.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="126"
+     inkscape:cy="213.5"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.763406,-11.671889)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.255407"
+       id="rect111"
+       width="14.744592"
+       height="14.744593"
+       x="27.891109"
+       y="26.164463" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="27.719997"
+       y="23.613811"
+       id="text275"><tspan
+         sodipodi:role="line"
+         id="tspan273"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="27.719997"
+         y="23.613811">Cuadrado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="27.583572"
+       y="14.753869"
+       id="text329"><tspan
+         sodipodi:role="line"
+         id="tspan327"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="27.583572"
+         y="14.753869">Fórmulas de Perímetros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800000;stroke:none;stroke-width:0.264583"
+       x="29.36875"
+       y="46.302086"
+       id="text491"><tspan
+         sodipodi:role="line"
+         id="tspan489"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="29.36875"
+         y="46.302086">P = 4·L</tspan></text>
+    <path
+       style="fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       d="m 27.763407,49.212499 h 50"
+       id="path606" />
+    <path
+       style="fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       d="M 27.763407,81.491668 H 77.763404"
+       id="path606-7" />
+    <path
+       style="fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       d="m 27.763407,17.991667 h 50"
+       id="path606-8" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.361;stroke-dasharray:none"
+       id="rect111-3"
+       width="29.639179"
+       height="14.639179"
+       x="27.943907"
+       y="58.160049" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="27.618368"
+       y="55.55669"
+       id="text275-4"><tspan
+         sodipodi:role="line"
+         id="tspan273-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="27.618368"
+         y="55.55669">Rectángulo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="37.006279"
+       y="70.836632"
+       id="text333-3"><tspan
+         sodipodi:role="line"
+         id="tspan331-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#800000;stroke:#800000;stroke-width:0.264583"
+         x="37.006279"
+         y="70.836632"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1610">b</tspan> <tspan
+   style="stroke:none"
+   id="tspan5882">(base)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800000;stroke:none;stroke-width:0.264583"
+       x="29.36875"
+       y="78.244965"
+       id="text491-0"><tspan
+         sodipodi:role="line"
+         id="tspan489-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="29.36875"
+         y="78.244965">P = 2·b + 2·h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       x="59.266663"
+       y="65.881248"
+       id="text1504"><tspan
+         sodipodi:role="line"
+         id="tspan1502"
+         style="fill:#800000;stroke:#800000;stroke-width:0.2"
+         x="59.266663"
+         y="65.881248"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1608">h</tspan> <tspan
+   style="stroke:none"
+   id="tspan5880">(altura)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="27.719997"
+       y="87.271408"
+       id="text275-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan273-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="27.719997"
+         y="87.271408">Circunferencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="37.381851"
+       y="104.93256"
+       id="text333-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan331-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000080;stroke:#000080;stroke-width:0.264583"
+         x="37.381851"
+         y="104.93256">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800000;stroke:none;stroke-width:0.264583"
+       x="29.36875"
+       y="114.72217"
+       id="text491-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan489-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="29.36875"
+         y="114.72217">P = 2·π·r = π·d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       x="41.121407"
+       y="95.479286"
+       id="text1504-7"><tspan
+         sodipodi:role="line"
+         id="tspan1502-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000;stroke:#800000;stroke-width:0.2"
+         x="41.121407"
+         y="95.479286">r</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.476327;stroke-dasharray:none"
+       id="path1808"
+       cx="37.763409"
+       cy="98.985771"
+       rx="9.761837"
+       ry="9.7618361" />
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0.361;stroke-dasharray:none"
+       d="m 37.570833,98.954165 9.260416,-4.497917"
+       id="path1812" />
+    <path
+       style="fill:#000080;stroke:#000080;stroke-width:0.361;stroke-dasharray:none"
+       d="M 32.54375,91.281249 43.656249,107.15625"
+       id="path1940" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       x="54.354309"
+       y="93.274925"
+       id="text1504-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan1502-4-1"
+         style="fill:#800000;stroke:none;stroke-width:0.2"
+         x="54.354309"
+         y="93.274925"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan5874">r:</tspan> radio</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#800000;stroke:#800000;stroke-width:0.2"
+         x="54.354309"
+         y="97.684639"
+         id="tspan2197" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke:#000000;stroke-width:0.264583"
+       x="54.442158"
+       y="98.344048"
+       id="text333-3-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan331-0-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000080;stroke:none;stroke-width:0.264583"
+         x="54.442158"
+         y="98.344048"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan5876">d:</tspan> diámetro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000080;stroke:#000080;stroke-width:0.361;stroke-dasharray:none"
+       x="54.504169"
+       y="103.98128"
+       id="text5872"><tspan
+         sodipodi:role="line"
+         id="tspan5870"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.361"
+         x="54.504169"
+         y="103.98128"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan5878">π <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+   id="tspan6093">(Pi)</tspan> </tspan>= 3,14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#333333;stroke-width:0.2;stroke-dasharray:none"
+       x="43.897984"
+       y="34.014332"
+       id="text1504-3"><tspan
+         sodipodi:role="line"
+         id="tspan1502-5"
+         style="fill:#800000;stroke:#800000;stroke-width:0.2"
+         x="43.897984"
+         y="34.014332"><tspan
+           style="stroke:none"
+           id="tspan5880-3"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke:#800000"
+   id="tspan5987">L</tspan> (Lado)</tspan></tspan></text>
+  </g>
+</svg>
