@@ -18,12 +18,13 @@ version: "02/06/26"
 
 <!-- *** GUIDE START *** -->
 
+<span class="red2 size80">(Alternancia 3: Ejercicios del pto. 1 y 2)</span>
 
-### 1. ¿Qué son los números racionales?
+### 1. ¿Qué son los números racionales? 
 
 Los **números racionales** son todos aquellos que se pueden expresar como una **fracción** del tipo $\frac{a}{b}$, donde:
 
-* $a$ y $b$ son números enteros,
+* $a$ <span class="grey3 size80">(numerador)</span> y $b$ <span class="grey3 size80">(denominador)</span> son números enteros,
 * $b \neq 0$.
 
 Ejemplos:
@@ -67,6 +68,7 @@ Repasa [aquí](https://www.youtube.com/watch?v=I2cLyQSVQ4o) la multiplicación d
 
 <br>
 
+<div class="grey3">
 
 ### Autocorrección
 
@@ -81,7 +83,7 @@ Hay que presentar autocorregidos los ejercicios pedidos en las alternancia.
 
 <summary>**Clic aquí** para ver las respuestas</summary>
 
-<div class="size80 grey3">
+<div class="size80">
 
 **1.**
 
@@ -89,17 +91,19 @@ Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 
 **2.** 
 
-1) **26** son los que se cosecharon verdes
-2) **1000** litros produjo hoy
-3) **28** toneladas de maiz tiene
-4) **36** hectáreas se sembraron con girasol 
-5) **40** tomates hay. 
+(Aquí no aparece pero en la carpeta debe aparecer el procedimiento)
+
+1) Se cosecharon verdes **26** tomates
+2) Hoy se produjeron **1000** litros de leche
+3) Hay **28** toneladas de maiz
+4) Se sembraron **36** hectáreas con girasol 
+5) Hay **40** tomates. 
 
 </div>
 
 </details>
 
-
+</div>
 
 <!-- *** GUIDE END *** -->
 
