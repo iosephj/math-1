@@ -38,11 +38,11 @@ version: "01/03/26"
 
 ## Guías de aprendizaje
 
-- [1. Números naturales](01_naturales.html) 
+- [1. Números naturales](01_naturales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 0: Ejercicios del punto 1 (Sumas y restas) <br> &emsp; Tarea de alternancia 1: Ejercicios del punto 3 (Práctica especial de divisiones) <br> &emsp; Tarea Alternancia 2: Ejercicios del punto 8 hasta el 11 (Desde "Descomponer un número en factores primos" hasta el final)<br><br></div>
 
-- [2. Números enteros](02_enteros.html)
+- [2. Números enteros](02_enteros.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios del punto 4 (Ejercicios adicionales). Ver también guía 3. <br><br></div>
 
-- [3. Números racionales](03_racionales.html)
+- [3. Números racionales](03_racionales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios de los puntos 1 y 2.<br><br></div>
 
 <div hidden>
 
