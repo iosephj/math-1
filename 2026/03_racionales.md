@@ -52,7 +52,6 @@ Las fracciones pueden representar partes de una unidad. Por ejemplo si en una ce
 
 - Para saber cuantas manzanas se comieron se multiplica la cantidad total por $\frac{3}{4}$.
 - Esto es: $\frac{3}{4} \times 12 = \frac{3 \times 12}{4} = \frac{36}{4} = 9$ <span class="gey3">(Recuerda que la fracción es una división y por eso dividimos 36 en 4 para llegar a 9)</span>
-$$
 - **Respuesta:** Se comieron 9 manzanas**
 
 **Ejercicios:**
@@ -67,6 +66,32 @@ Repasa [aquí](https://www.youtube.com/watch?v=I2cLyQSVQ4o) la multiplicación d
 
 
 <br>
+
+### 3. Orden en los números racionales
+
+Un número racional, es decir una fracción, es una división. Por ejemplo:
+
+&nbsp;&nbsp;$\frac{1}{4}$ es `1 dividido en 4` que es igual a **0,25**
+
+Repasa [aquí](https://www.youtube.com/watch?v=OkEWb6Emecw) como se hacen estas divisiones.
+
+Luego tienes que ubicarlo en la recta numérica como se muestra abajo:
+
+<center>![](racionales/orden1.svg)</center>
+
+Ahora trata de ubicar $\frac{1}{2}$ en la recta numérica y responde: **¿Cuál es mayor?**
+
+**Ejercicios:**
+
+Representa en una recta numérica y ordena de menor a mayor las siguientes fracciones. Antes de hacer la división simplifica cada fracción:
+
+1) $\frac{2}{5}$, $\frac{7}{10}$, $\frac{3}{4}$
+2) $\frac{1}{3}$, $\frac{3}{6}$, $\frac{4}{5}$
+3) $\frac{15}{100}$, $\frac{3}{2}$, $\frac{4}{8}$
+
+
+<br>
+
 
 <div class="grey3">
 
@@ -104,6 +129,8 @@ Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 </details>
 
 </div>
+
+
 
 <!-- *** GUIDE END *** -->
 
