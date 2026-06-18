@@ -83,7 +83,7 @@ Ahora trata de ubicar $\frac{1}{2}$ en la recta numérica y responde: **¿Cuál 
 
 **Ejercicios:**
 
-Representa en una recta numérica y ordena de menor a mayor las siguientes fracciones. Antes de hacer la división simplifica cada fracción:
+Representa en una recta numérica y ordena de menor a mayor las siguientes fracciones. Antes de hacer la división simplifica si quieres las fracciones:
 
 1) $\frac{2}{5}$, $\frac{7}{10}$, $\frac{3}{4}$
 2) $\frac{1}{3}$, $\frac{3}{6}$, $\frac{4}{5}$
@@ -92,8 +92,16 @@ Representa en una recta numérica y ordena de menor a mayor las siguientes fracc
 
 <br>
 
+### 4. Ejercicios y problemas de repaso
 
-<div class="grey3">
+1) En un corral hay 48 gallinas. Si $\frac{3}{4}$ son ponedoras, ¿cuántas gallinas "no ponedoras" hay?
+2) Un lote tiene 90 árboles frutales. Si $\frac{1}{3}$ son naranjos, y de los naranjos la mitad son de naranja "Sanguina" (pulpa rojiza) ¿cuántos naranjos de la variedad "Sanguina" hay?
+3) Una bolsa contiene 72 semillas. Si se siembra $\frac{5}{6}$ de ellas y luego crecen solo $\frac{3}{4}$ de las sembradas, ¿cuántas semillas crecieron?
+4) ¿Cual de estas fracciones es mayor: $\frac{3}{4},\quad \frac{7}{10},\quad \frac{13}{20}$? ¿Por qué?
+
+<br><br>
+
+<div class="grey3 size80">
 
 ### Autocorrección
 
@@ -108,8 +116,6 @@ Hay que presentar autocorregidos los ejercicios pedidos en las alternancia.
 
 <summary>**Clic aquí** para ver las respuestas</summary>
 
-<div class="size80">
-
 **1.**
 
 Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
@@ -123,8 +129,6 @@ Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 3) Hay **28** toneladas de maiz
 4) Se sembraron **36** hectáreas con girasol 
 5) Hay **40** tomates. 
-
-</div>
 
 </details>
 
