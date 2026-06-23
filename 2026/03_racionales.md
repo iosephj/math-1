@@ -125,9 +125,9 @@ Representa en una recta numérica y ordena de menor a mayor las siguientes fracc
 
 ### 4. Ejercicios y problemas de repaso
 
-Resuelve lo siguiente:
-
 <div class="actividad">
+
+Resuelve lo siguiente:
 
 1) En un corral hay 48 gallinas. Si $\frac{3}{4}$ son ponedoras, ¿cuántas gallinas "no ponedoras" hay?
 2) Un lote tiene 90 árboles frutales. Si $\frac{1}{3}$ son naranjos, y de los naranjos la mitad son de naranja "Sanguina" (pulpa rojiza) ¿cuántos naranjos de la variedad "Sanguina" hay?
@@ -240,7 +240,7 @@ $12,3=\frac{123}{10}$
 
 Si necesitas más ayuda, puedes ver este [video](https://www.youtube.com/watch?v=YdjXZnKxudc&list=PLFx6eqvnPSu4fuw9Cp2Gn3REC-dBsAvUM&index=30).
 
-### Ejercicios
+#### Ejercicios
 
 <div class="actividad">
 
@@ -254,15 +254,27 @@ Pasar a fracción los siguientes números decimales:
 </div>
 
 
-<div hidden>
-## 🔁 Actividad 4
+### 8. Ejercicios integradores
 
-Resuelve estos problemas que integran lo que has aprendido aquí.
+<div class = "actividad">
 
-a. En una jornada agrícola, un alumno trabajó $\frac{3}{5}$ del tiempo en la huerta y el resto en el invernadero. ¿Qué fracción del tiempo estuvo en el invernadero?
-b. Un alumno sembró $0,25$ hectáreas con alfalfa y $\frac{1}{5}$ con maíz. ¿Con qué sembró más? Justificá.
+(Además de los anteriores practica estos para la prueba)
+
+Resuelve los siguientes ejercicios que tocan y combinan cosas de toda esta unidad. Simplifica las fracciones siempre que sea posible. Están las respuestas en la autocorrección.
+
+1) Un agricultor sembró $0,25$ hectáreas con alfalfa y $\frac{1}{5}$ de hectárea con maíz. ¿Con qué sembró más? Justificá usando la rectanumérica.
+2) En una caja hay 15 bolitas rojas y 25 bolitas azules. **a)** ¿Cuál es la proporción de canicas rojas respecto al total? **b)** ¿Cuál es la proporción de canicas azules? **c)** Expresá ambas proporciones como números decimales (dos decimales es suficiente).
+3) En una jornada agrícola, un alumno trabajó $\frac{3}{5}$ del tiempo en la huerta y el resto en el invernadero. ¿Qué fracción del tiempo estuvo en el invernadero? Si la jornada tiene 4 horas ¿cuantas horas trabajó en la huerta y cuántas en el invernadero?
+4) Un terreno rectangular mide 12 m de largo y 8 m de ancho. **a)** ¿Qué fracción representa el ancho respecto al largo?, **b)** ¿Cuál es la relación largo/ancho como decimal?
+5) **Es el más desafiante, no es estrictamente obligatorio.** En una receta de jugo, se mezclan 2,4 litros de agua y $\frac{3}{8}$ litros de jugo concentrado. ¿Qué parte del total es jugo concentrado? Da la respuesta en fracción y número decimal.
+
 </div>
 
+<div hidden>
+En una competencia de ciclismo un equipo recorrió 48,75 km el primer día y $\frac{39}{4}$ km el segundo día.
+a) ¿Cuántos kilómetros recorrieron en total? (Da la respuesta en decimal y fracción).
+b) ¿Qué fracción del total corresponde al segundo día?
+</div>
 
 
 <br>
@@ -284,11 +296,11 @@ Hay que presentar autocorregidos los ejercicios pedidos en las alternancias.
 
 <summary>**Clic aquí** para ver las respuestas</summary>
 
-**1.**
+##### 1. ¿Qué son los números racionales? 
 
 Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 
-**2.** 
+##### 2. La fracción como medida
 
 (Aquí no aparece pero en la carpeta debe aparecer el procedimiento)
 
@@ -298,7 +310,7 @@ Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 4) Se sembraron **36** hectáreas con girasol 
 5) Hay **40** tomates. 
 
-**5. La fracción como proporción**
+##### 5. La fracción como proporción
 
 1) 3/8 (no se puede simplificar)
 2) 10/30 y simplificando queda 1/3
@@ -317,24 +329,13 @@ Son racionales: $\frac{3}{4}$; $-12$; $2{,}5$; $0{,}\overline{3}$.
 3) 252/100 y simplificando queda 63/25
 4) 132/10 y simplificando queda 132/10
 
+##### 8. Ejercicios integradores
 
-##### Actividad 4
-
-**a.** El alumno trabajó $\frac{3}{5}$ del tiempo en la huerta y el resto en el invernadero.
-
-- El total del tiempo es 1 (la jornada completa).
-- Entonces, la fracción del tiempo en el invernadero es: $1 - \frac{3}{5} = \frac{5}{5} - \frac{3}{5} = \frac{2}{5}$
-- **Respuesta:** Estuvo $\frac{2}{5}$ del tiempo en el invernadero.
-
-
-**b.** El alumno sembró $0,25$ hectáreas con alfalfa y $\frac{1}{5}$ con maíz. ¿Con qué sembró más?
-
-- Primero, pasamos $0,25$ a fracción para compararlo fácilmente: $0,25 = \frac{25}{100} = \frac{1}{4}$
-- Ahora comparamos $\frac{1}{4}$ (alfalfa) con $\frac{1}{5}$ (maíz).
-- Para comparar, usamos un común denominador, por ejemplo 20: $\frac{1}{4} = \frac{5}{20}, \quad \frac{1}{5} = \frac{4}{20}$
-- Como $\frac{5}{20} > \frac{4}{20}$, sembró más alfalfa.
-- **Respuesta:** Sembró más alfalfa porque $0,25 = \frac{1}{4}$ es mayor que $\frac{1}{5}$.
-
+1) Sembró más alfalfa (0,25 hectáreas). La razón es que siembra 1/5 hectáreas de maiz lo que es igual a 0,2 hectáreas. Si grafico en la recta numérica 0,25 está más a la derecha y por lo tanto es el más grande.
+2) La proporción de rojas es 3/8 que es 0,37. La proporción de azules es 5/8 que es 0,62.
+3) Si en la huerta estuvo 3/5 del tiempo, en el invernadero estuvo 2/5 ya que 3/5 + 2/5 = 1. En la huerta trabajó 2,4 horas y en el invernadero 1,6 horas.
+4) **a)** 2/3, **b)** 1,5
+5) Trabajando con dos decimales: Total de litros = 2,77. Proporción de jugo concentrado = 0,13 = 13/100
 
 </details>
 
@@ -382,7 +383,7 @@ body {
     font-size: 1.3em;
     color: #222222;
     line-height: 1.4;
-    max-width: 800px;
+    /* max-width: 800px; /*800px es el largo facilitar lectura */
     margin: auto;
     padding: 1.5em;
 }
@@ -413,6 +414,8 @@ h4 {
 ol {  /*Apaga el estilo automático y se toma el control */
     list-style: none;
     counter-reset: item;
+    margin-left: 0;
+    padding-left: 0.5em; /* 1em */
 }
 
 ol li {  /* Crea un numerado y formato propio con ") " */
@@ -432,14 +435,14 @@ ol li::before {
 /* Ejemplos: bloque visual con sangría */
 .ejemplo {
     margin: 0.5em 0;
-    padding-left: 1em;
+    padding-left: 0.5em; /* 1em */
     border-left: 2px solid #1F4E79;
 }
 
 /* Actividades: sin color, solo orden */
 .actividad {
     margin: 0.5em 0;
-    padding-left: 1em;
+    padding-left: 0.5em; /* 1em */
 }
 
 /* Soluciones: más discretas */
