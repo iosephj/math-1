@@ -17,16 +17,14 @@ version: "01/03/26"
 
 **Criterios de aprobación de la materia**
 
-- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+- **Cuatrimestre 1:** Tener **A** (Aprobado) en Bimestre 1 y 2
    + **Bimestre 1:** Tener **A** en Alt. 1, Alt. 2 y Prueba 1
+   + **Bimestre 2:** Tener **A** en Alt. 3, Alt. 4 y Prueba 2.
 
 <div hidden>
-   + **Bimestre 2:** Tener **A** en Guía 4 (Alt. 2), Guía 6 (Alt. 3) y Prueba 2.
-
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
    + **Bimestre 3:** Tener **A** en Guía 8 (Alt. 4), Guía 9 (Alt. 5), Guía 11 (Alt 6) y Prueba 3
    + **Bimestre 4:** Tener **A** en Guía 14 (Alt. 8) y pruebas 4 y 5
-
 </div>
 
 
@@ -38,21 +36,17 @@ version: "01/03/26"
 
 ## Guías de aprendizaje
 
-- [1. Números naturales](01_naturales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 0: Ejercicios del punto 1 (Sumas y restas) <br> &emsp; Tarea de alternancia 1: Ejercicios del punto 3 (Práctica especial de divisiones) <br> &emsp; Tarea Alternancia 2: Ejercicios del punto 8 hasta el 11 (Desde "Descomponer un número en factores primos" hasta el final)<br><br></div>
+- [1. Números naturales](01_naturales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 0: Ejercicios del punto 1 (Sumas y restas) <br> &emsp; Tarea de alternancia 1: Ejercicios del tema 3 (Práctica especial de divisiones) <br> &emsp; Tarea Alternancia 2: Ejercicios del tema 8 hasta el 11 (Desde "Descomponer un número en factores primos" hasta el final)<br><br></div>
 
-- [2. Números enteros](02_enteros.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios del punto 4 (Ejercicios adicionales). Ver también guía 3. <br><br></div>
+- [2. Números enteros](02_enteros.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios del tema 4 (Ejercicios adicionales). Ver también guía 3. <br><br></div>
 
-- [3. Números racionales](03_racionales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios de los puntos 1 y 2.<br><br></div>
+- [3. Números racionales](03_racionales.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 3: Ejercicios de los temas 1 y 2.<br><br></div>
+
+- [4. Potencias y raíces](04_potencia_raiz.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 4: Ejercicios de los temas 1 al 3 (desde potencias hasta problemas desafiantes).<br><br></div>
+
+
 
 <div hidden>
-
-- [2. Números naturales: algunas propiedades (Alternancia 1)](02_naturales_propiedades.html)
-
-- [3. Números naturales: múltiplos, criterios de divisibilidad, números primos]() No hay guía online de ésto. Está lo que se dictó e hicimos en clase.
-- [4. Números enteros: valor absoluto, suma, resta (Alternancia 2)](04_enteros1.html)
-
-- [5. Números enteros: Práctica](05_enteros2_practica.html)
-
 - [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
 
 - [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
@@ -70,7 +64,7 @@ version: "01/03/26"
 - [13. Integrar fracciones, porcentajes y regla de 3 (Alternancia 7)](13_integrar_racionales_porcentajes_regla3.html)
 
 - [14. Área y perímetro (Alternancia 8)](14_geom_area_perimetro.html)
-
+</div> <!-- cierra el hidden de los contenidos -->
 
 <span hidden>Fin archivo</span>
 
@@ -78,13 +72,7 @@ version: "01/03/26"
 
 ---
 
-</div> <!-- cierra el hidden de los contenidos -->
-
-<br>
-
----
-
-**Verifica** tu progreso [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
+**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
 
 <!-- HTML style definitions -->
 <style>
