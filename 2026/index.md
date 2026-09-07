@@ -46,6 +46,9 @@ version: "01/03/26"
 
 - [5. Porcentajes y regla de 3 simple](05_porcentaje.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 5: Ejercicios de los temas 1 al 3.<br><br></div>
 
+- [6. Geometría y medidas](06_geometria.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 6: Ejercicios de los temas 1 al 3.<br><br></div>
+
+
 <div hidden>
 - [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
 
