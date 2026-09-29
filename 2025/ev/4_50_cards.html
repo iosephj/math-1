@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>Fichas de tareas (anverso y reverso)</title>
+<style>
+        body {
+            margin: 0;
+        }
+        
+		.page {
+            width: 210mm;
+            height: 297mm;
+            padding: 7mm;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+            grid-template-rows: repeat(4, 1fr);    /* 4 filas */
+            gap: 10mm;
+            box-sizing: border-box; /* Incluye el padding y el borde en el tamaño total */
+        }
+
+        .ficha {
+            border: 1px solid grey;
+            padding: 10px;
+            box-sizing: border-box; /* Asegúrate de que el borde y el padding estén incluidos */
+            height: 63.25mm; /* Altura fija */
+            overflow: hidden; /* Recorta el contenido que excede el espacio */
+        }
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: start;
+        }
+
+        .imagen {
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .texto {
+            flex: 1;
+        }
+		
+		p {
+			margin-block-start: 0;  /* Saca espacio arriba del texto, estaba en 1em y bajaba mucho */
+		}
+		
+        @media print {
+            body {
+                margin: 0;
+            }
+            .page {
+                height: auto; /* Permite que la altura se ajuste automáticamente al contenido */
+                page-break-after: always; /* Asegúrate de que cada página se imprima correctamente */
+            }
+            .ficha {
+                page-break-inside: avoid; /* Evita que una ficha se divida entre páginas */
+            }
+        }
+
+	/* Colors */
+	.grey1 {color: #b3b3b3;} /* my light-grey */
+	.grey2 {color: #999999;} /* my middle-grey */
+	.grey3 {color: #808080;} /* my dark-grey */
+	.blue1 {color: #6495ed;} /* nvim blue */
+	.blue2 {color: #276cdf;} /* Andrew Ng Blue */
+	.sky1 {color: #7dbed8;} /* nvim sky */
+	.sky2 {color: #27a2db;}   /* my sky */
+	.green {color: #81b524;} /* my green */
+	.red1 {color: #ec5469;} /* my coral-red */
+	.red2 {color: #f44336;} /* my red */
+	.rose {color: #ec9998:} /* nvim rose */
+	.gold {color: #df9d43;} /* Andrew Ng gold */
+	.orange1 {color: #fda556;} /* nvim orange */
+	.orange2 {color: #ff9505;} /*Andrew Ng orange */
+	.purple1 {color: #ff40ff;} /* Andrew Ng purple */
+	.purple2 {color: #d164d7;} /* Andrew Ng purple */
+	/* Font Size */
+	.size90 {font-size: 0.9em;}
+	.size85 {font-size: 0.85em;}
+	.size80 {font-size: 0.8em;}
+	.size70 {font-size: 0.7em;}
+	.size60 {font-size: 0.6em;}
+	.size50 {font-size: 0.5em;}
+
+
+
+    </style>
+</head>
+<body>
+<!-- Anverso (frente) -->
+<div class="page front">
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Contenidos Prueba 4 - Dic/Feb</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>Intensificación núcleos prioritarios</strong></p>
+<p><strong>1)</strong> Escribir 3 porcentajes y pasarlos a fracción.
+Ejemplo: <span class="math inline">\(28\%=\frac{28}{100}\)</span>.
+<br/><strong>2)</strong> Escribir una fracción y pasarla a porcentaje.
+Ejemplo: <span class="math inline">\(\frac{4}{25}=16\%\)</span>.
+<br/><strong>3)</strong> Escribir un ejemplo de como calcular un
+porcentaje usando regla de tres simple. Hazlo paso a paso, prolijo y
+mostrando las cuentas. Ejemplo: Si nacieron 30 pollitos pero en la
+primera semana</p>
+</div></body></html></div>
+</div>
+<!-- Reverso (dorso) -->
+<div class="page back">
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p>murieron 5, se puede decir que murió el 16,6%.
+<br/><strong>4)</strong> Explica con tus palabras el ejercicio 1 y 3</p>
+<p><strong>Criterio de Aprobación:</strong> Deben estar suficientemente
+bien todos los ejercicios.</p>
+<p><strong>Aclaración:</strong> Los ejercicios inventados deben tener
+una dificultad similar a la de los ejemplos.</p>
+</div></body></html></div>
+</div>
+</body>
+</html>

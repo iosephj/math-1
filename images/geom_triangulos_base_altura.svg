@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85.231255mm"
+   height="21.995832mm"
+   viewBox="0 0 85.231255 21.995832"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="geom_triangulos_base_altura.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="364.5"
+     inkscape:cy="207.5"
+     inkscape:window-width="1280"
+     inkscape:window-height="953"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.8458334,-9.110417)">
+    <path
+       style="fill:none;stroke:#222222;stroke-width:0.3"
+       d="M 11.90625,28.310416 H 34.660416 L 25.929167,11.641667 Z"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#222222;stroke-width:0.3"
+       d="M 42.068749,28.310416 H 55.827083 L 64.822917,12.7 Z"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#222222;stroke-width:0.3"
+       d="M 69.056249,28.839583 89.958332,21.960416 77.522917,13.229167 Z"
+       id="path3" />
+    <rect
+       style="fill:none;stroke:#f0f6fc;stroke-width:0.3"
+       id="rect3"
+       width="84.931252"
+       height="21.695833"
+       x="8.9958334"
+       y="9.260417" />
+  </g>
+</svg>

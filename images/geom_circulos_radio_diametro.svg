@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80.99791mm"
+   height="46.866665mm"
+   viewBox="0 0 80.99791 46.866665"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="geom_circulos_radio_diametro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="353.5"
+     inkscape:cy="243.5"
+     inkscape:window-width="1280"
+     inkscape:window-height="953"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.491666,-20.752082)">
+    <circle
+       style="fill:none;stroke:#222222;stroke-width:0.444068"
+       id="path1"
+       cx="35.460415"
+       cy="44.191666"
+       r="19.777966" />
+    <circle
+       style="fill:none;stroke:#222222;stroke-width:0.290235"
+       id="path2"
+       cx="77.054169"
+       cy="44.774998"
+       r="9.8548822" />
+    <rect
+       style="fill:none;stroke:#f0f6fc;stroke-width:0.279352"
+       id="rect2"
+       width="80.718559"
+       height="46.587315"
+       x="11.631342"
+       y="20.891758" />
+  </g>
+</svg>

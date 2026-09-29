@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>Fichas de tareas (anverso y reverso)</title>
+<style>
+        body {
+            margin: 0;
+        }
+        
+		.page {
+            width: 210mm;
+            height: 297mm;
+            padding: 7mm;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+            grid-template-rows: repeat(4, 1fr);    /* 4 filas */
+            gap: 10mm;
+            box-sizing: border-box; /* Incluye el padding y el borde en el tamaño total */
+        }
+
+        .ficha {
+            border: 1px solid grey;
+            padding: 10px;
+            box-sizing: border-box; /* Asegúrate de que el borde y el padding estén incluidos */
+            height: 63.25mm; /* Altura fija */
+            overflow: hidden; /* Recorta el contenido que excede el espacio */
+        }
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: start;
+        }
+
+        .imagen {
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .texto {
+            flex: 1;
+        }
+		
+		p {
+			margin-block-start: 0;  /* Saca espacio arriba del texto, estaba en 1em y bajaba mucho */
+		}
+		
+        @media print {
+            body {
+                margin: 0;
+            }
+            .page {
+                height: auto; /* Permite que la altura se ajuste automáticamente al contenido */
+                page-break-after: always; /* Asegúrate de que cada página se imprima correctamente */
+            }
+            .ficha {
+                page-break-inside: avoid; /* Evita que una ficha se divida entre páginas */
+            }
+        }
+		.size100 {font-size: 1em;}
+		.size90 {font-size: 0.9em;}
+        .size85 {font-size: 0.85em;}
+        .size80 {font-size: 0.8em;}
+        .size70 {font-size: 0.7em;}
+        .size60 {font-size: 0.6em;}
+        .size50 {font-size: 0.5em;}
+		.grey1 {color: #b3b3b3;} /* my light-grey */
+        .grey2 {color: #999999;} /* my middle-grey */
+        .grey3 {color: #808080;} /* my dark-grey */
+    </style>
+</head>
+<body>
+<!-- Anverso (frente) -->
+<div class="page front">
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>Matemática 1° - Prueba 3 - TEMA 51 </strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[1p]</span>¿Cuáles son
+números racionales? <span class="math inline">\(\frac{7}{4}\)</span>;
+<span class="math inline">\(\pi\)</span>; <span class="math inline">\(\sqrt{2}\)</span>; <span class="math inline">\(-\frac{5}{2}\)</span>; 0,5.
+<br/><strong>2)</strong> <span class="size70">[3p]</span>Dibuja un
+rectángulo que represente una barra de chocolate. <strong>a)</strong>
+Sombrea <span class="math inline">\(\frac{3}{7}\)</span>,
+<strong>b)</strong> ¿Qué número decimal representa esta fracción?
+<br/><strong>3)</strong> <span class="size70">[2p]</span>Ordena de menor
+a mayor: <span class="math inline">\(\frac{5}{8}\)</span>, <span class="math inline">\(\frac{2}{3}\)</span>, <span class="math inline">\(\frac{3}{4}\)</span></p>
+</div></body></html></div>
+</div>
+<!-- Reverso (dorso) -->
+<div class="page back">
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>4)</strong> <span class="size70">[2p]</span>En un campo hay
+100 vacas, 5 toros y 4 perros ¿Qué proporción de toros hay en el total
+de animales? <br/><strong>5)</strong> <span class="size70">[2p]</span>Una
+receta para 12 porciones utiliza <strong>•</strong> <span class="math inline">\(\frac{3}{4}\)</span> litros de leche,
+<strong>•</strong> 0,25 litros de aceite, <strong>•</strong> <span class="math inline">\(\frac{2}{5}\)</span> de litro de jugo de limón. Un
+cocinero quiere hacer 18 porciones usando las mismas proporciones. <br/>
+<strong>a)</strong> ¿Qué cantidad de leche necesita para 18 porciones?
+<br/> <strong>b)</strong> Convierte la cantidad de aceite “0,25” a
+fracción <br/> <strong>c)</strong> ¿Qué cantidad total de líquidos usará
+para 18 porciones?</p>
+</div></body></html></div>
+</div>
+</body>
+</html>

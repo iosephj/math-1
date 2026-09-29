@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>Fichas de tareas (anverso y reverso)</title>
+<style>
+        body {
+            margin: 0;
+        }
+        
+		.page {
+            width: 210mm;
+            height: 297mm;
+            padding: 7mm;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+            grid-template-rows: repeat(4, 1fr);    /* 4 filas */
+            gap: 10mm;
+            box-sizing: border-box; /* Incluye el padding y el borde en el tamaño total */
+        }
+
+        .ficha {
+            border: 1px solid grey;
+            padding: 10px;
+            box-sizing: border-box; /* Asegúrate de que el borde y el padding estén incluidos */
+            height: 63.25mm; /* Altura fija */
+            overflow: hidden; /* Recorta el contenido que excede el espacio */
+        }
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: start;
+        }
+
+        .imagen {
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .texto {
+            flex: 1;
+        }
+		
+		p {
+			margin-block-start: 0;  /* Saca espacio arriba del texto, estaba en 1em y bajaba mucho */
+		}
+		
+        @media print {
+            body {
+                margin: 0;
+            }
+            .page {
+                height: auto; /* Permite que la altura se ajuste automáticamente al contenido */
+                page-break-after: always; /* Asegúrate de que cada página se imprima correctamente */
+            }
+            .ficha {
+                page-break-inside: avoid; /* Evita que una ficha se divida entre páginas */
+            }
+        }
+
+	/* Colors */
+	.grey1 {color: #b3b3b3;} /* my light-grey */
+	.grey2 {color: #999999;} /* my middle-grey */
+	.grey3 {color: #808080;} /* my dark-grey */
+	.blue1 {color: #6495ed;} /* nvim blue */
+	.blue2 {color: #276cdf;} /* Andrew Ng Blue */
+	.sky1 {color: #7dbed8;} /* nvim sky */
+	.sky2 {color: #27a2db;}   /* my sky */
+	.green {color: #81b524;} /* my green */
+	.red1 {color: #ec5469;} /* my coral-red */
+	.red2 {color: #f44336;} /* my red */
+	.rose {color: #ec9998:} /* nvim rose */
+	.gold {color: #df9d43;} /* Andrew Ng gold */
+	.orange1 {color: #fda556;} /* nvim orange */
+	.orange2 {color: #ff9505;} /*Andrew Ng orange */
+	.purple1 {color: #ff40ff;} /* Andrew Ng purple */
+	.purple2 {color: #d164d7;} /* Andrew Ng purple */
+	/* Font Size */
+	.size90 {font-size: 0.9em;}
+	.size85 {font-size: 0.85em;}
+	.size80 {font-size: 0.8em;}
+	.size70 {font-size: 0.7em;}
+	.size60 {font-size: 0.6em;}
+	.size50 {font-size: 0.5em;}
+
+
+
+    </style>
+</head>
+<body>
+<!-- Anverso (frente) -->
+<div class="page front">
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page size90">
+<p><strong>Matemática - Prueba 4 - TEMA 51</strong></p>
+<p><strong>Aclaraciones:</strong> <em>Hacer los ejercicios paso a paso.</em></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> <span class="size70">[2p]</span> Pon estos porcentajes como fracción y simplifícalas: <strong>a)</strong> 20%, <strong>b)</strong> 120%. <br/><strong>2)</strong> <span class="size70">[2p]</span> Expresa como porcentaje la fracción: <span class="math inline">\(\frac{18}{20}\)</span> <br/><strong>3)</strong> <span class="size70">[2p]</span> Calcula el 35% de 800. Usar <strong>regla de 3</strong>. <br/><strong>4)</strong> <span class="size70">[2p]</span> En una granja nacieron 30 conejos pero al cabo de un mes murieron 6. ¿Qué porcentaje sobrevivió y que porcentaje murió? Usar <strong>regla de 3</strong>. <br/><strong>5)</strong> <span class="size70">[2p]</span> (Usar cualquier método) En una granja hay <strong>120 gallinas</strong> y <strong>60 conejos</strong>.</p>
+</div></body></html></div>
+</div>
+<!-- Reverso (dorso) -->
+<div class="page back">
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page size90">
+<p>El granjero decide vender el <strong>25% de las gallinas</strong> y <strong>un tercio de los conejos</strong>. Después de la venta, quiere alimentar al <strong>50%</strong> de las gallinas que quedaron con un nuevo tipo de alimento especial y al <strong>60%</strong> de los conejos que quedaron con zanahorias frescas de su huerta.</p>
+<p><strong>Preguntas:</strong> a) ¿Cuántas gallinas y cuántos conejos vendió el granjero? b) ¿Cuántas gallinas y cuántos conejos quedan en la granja después de la venta? c) ¿Cuántas gallinas reciben el alimento especial y cuántos conejos comen las zanahorias frescas? d) ¿Qué fracción del total de animales que quedan en la granja recibe alimentación especial?</p>
+</div></body></html></div>
+</div>
+</body>
+</html>

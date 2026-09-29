@@ -65,13 +65,38 @@ version: "01/03/25"
 
 - [14. Área y perímetro (Alternancia 8)](14_geom_area_perimetro.html)
 
+
+---
+
+
+## Modelos de Evaluación para practicar:
+
+- [Prueba 3 (Num. racionales: Guías: 8, 9 y 10)](ev/3_51_full.html) 
+- [Prueba 4 (Fracciones y porcentajes: Guías 11, 12 y 13)](ev/4_51_full.html)   
+- [Prueba 5 (Area y perímetro: Guía 14)](ev/5_52_full.html)   
+
+
 <span hidden>Fin archivo</span>
 
 <br>
 
 ---
 
+**Claves para hacer la intensificación:** Consultar dudas. Preparar y practicar con los modelos de pruebas y buscar más ejercicios en las guías. 
+
+
+**Verifica** tus pendientes [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave la que corresponda según el listado de abajo:
+
+- Chaparro, Benjamín: chbe
+- Chaparro, Santino: chsa
+- Herrera, Jeremías: hejeal
+- Luna, Juan Pablo: lujupa
+- Ríos, Simón: risi
+
+<div hidden>
 **Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_mat1_25) poniendo como clave `progreso2025` y luego tu número de lista.
+</div>
+
 
 <!-- HTML style definitions -->
 <style>
