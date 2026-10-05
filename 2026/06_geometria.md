@@ -165,6 +165,135 @@ $P = 2 \cdot (50 + 200) = 500\text{ cm}$
 No hay autocorrección en las actividades anteriores.
 :::
 
+## 3. Práctica básica de triángulos y círculos
+
+(Hecho en clase)
+
+Teniendo en cuenta las explicaciones de clase hacer las siguientes actividades:
+
+### Actividad
+
+::: activity
+
+#### Triángulos
+
+**a)** Clasificar estos triángulos según sus lados
+
+![](D:/cfr/mat1/images/geom_triangulos_tipos.svg)
+
+**b)** Dibujar aproximadamente en la carpeta estos triángulos y señalar la base y la altura de cada uno de ellos
+
+![](D:/cfr/mat1/images/geom_triangulos_base_altura.svg)
+
+#### Círculos y circunferencias
+
+Recuerda lo que vimos sobre radio y diámetro. También sobre la fórmula para calcular el perímetro de una figura circular, ya sea usando el radio: $P = 2\pi \cdot r$; o el diámetro: $P = \pi \cdot d$.
+
+**a)** Escribir en una frase la diferencia entre círculo y circunferencia
+
+**b)** En este papel medir el radio y el diámetro de cada círculo y marcarlo en el dibujo
+
+![](D:/cfr/mat1/images/geom_circulos_radio_diametro.svg)
+
+**c)** Buscar un objeto cilíndrico, dibujarlo aproximadamente, ponerle las medidas reales de altura y diámetro (o radio), medir con un hilo su perímetro circular y anotarlo.
+
+:::
+
+## 4. Otros ejercicios de perímetro
+
+(Hecho en clase)
+
+Aplica todo lo que aprendiste y resuelve estos ejercicios.
+
+### Actividad
+
+::: activity
+
+**a)** Un granjero hizo un corral rectangular. Largo: 8 m. Ancho: 4 m. El alambrado que usó mide: 🔲 20 m; 🔲 24 m; 🔲 32 m. ¿Qué opción es correcta?
+
+**b)** **Adivinanza:** El corral de las ovejas tiene un perímetro de **30 m**. Sus lados cortos miden **5 m**. ¿Cuánto miden los lados largos?
+
+**c)** Imagina que eres un detective del campo. Encontrar cuál dato es falso, cual huerta tiene error:
+
+- **Huerta A:** Largo: 10 m; Ancho: 6 m; Perímetro: 32 m
+- **Huerta B:** Largo: 7 m; Ancho: 3 m; Perímetro: 22 m
+- **Huerta C:** Largo: 8 m; Ancho: 4 m; Perímetro: 20 m
+
+**d)** Gana el corral que necesite menos alambrado. ¿Quién gana?
+
+| Corral | Medidas   |
+| ------ | --------- |
+| A      | 6 m × 5 m |
+| B      | 8 m × 3 m |
+| C      | 7 m × 4 m |
+
+:::
+
+## 5. Área y perímetro de rectángulos y triángulos
+
+Ya tienes una idea de lo que es el perímetro y de como calcularlo. Ahora vas a recordar especialmente lo que es el área y como calcularla.
+
+### Actividad
+
+::: activity
+
+**a)** Observa este [video](https://www.youtube.com/watch?v=wYNvY_bOGdc) pare repasar perímetro y área. Luego escribe las dos frases de abajo completando con una palabra el espacio vacío: 
+
+*El perímetro es la ______ que rodea una figura. Imagina que quieres poner un hilo alrededor de un jardín: la longitud de ese hilo es el ______. Para calcularlo se ______ todos los lados de la figura. Se mide en unidades de longitud: metros, centímetros, etc.*
+
+*El ______ es la medida de la superficie que ocupa una figura, o sea, cuánto espacio hay dentro de la ______. Piensa en cuántas baldosas caben para cubrir un ______: eso es el área. Para calcular el área de un rectángulo se mutiplica la base "b" por la _____ "h". Se mide en unidades de superficie: metros ______, centímetros cuadrados, etc.*
+
+**b)** Una pantalla de computadora de forma rectangular tiene 40 cm de base (**b**) por 20 cm de altura (**h**). Calcular el área de la misma.
+
+**c)** Dibujar un rectángulo de 8 centímetros cuadrados. Hay varias posibilidades, lo importante es que el área total ($b \cdot h$) sea de $8cm^2$.
+
+**d)** Se hizo una huerta en un terreno rectangular de: Largo: 9 m; Ancho: 4 m. ¿Cuántos metros cuadrados tiene la huerta?
+
+**e)** Dibujar un triángulo de 3 cm de base y 4 cm de altura. Luego calcula su área.
+
+**f)** Una ventana tiene forma triangular donde: Base: 2 m; Altura: 1,5 m. ¿Cuál es el área? Elegir la correcta. 🔲 3 m², 🔲 2 m², 🔲 1,5 m².
+
+::: figure
+![](../images/geometria/area_ventana_triangular.jpg){width=250px}
+:::
+
+**g)** ¿Quién ocupa más espacio?
+
+| Lugar              | Medidas                          |
+| ------------------ | -------------------------------- |
+| Huerta de tomates  | 6 m × 5 m                        |
+| Corral de gallinas | 8 m × 4 m                        |
+| Cantero de flores  | Triángulo: base 10 m, altura 4 m |
+
+Ordenar del menor al mayor según el área.
+
+:::
+
+## 6. Área de figuras circulares
+
+Observa este [video](https://www.youtube.com/watch?v=5Ifbq_EQSxUp) y luego realiza las siguientes actividades:
+
+### Actividades
+
+::: activity
+
+En todos los cálculos usa $\pi = 3,14$.
+
+**a)** Juan cortó una cartulina de forma circular. La figura tiene 5 cm de radio. Calcula su perímetro y su área.
+
+**b)** Una tanque australiano usado en el campo para reservar agua tiene una forma circular de 10 m de diámetro. ¿Cuál es su perímetro  y su área?
+
+**c)** La parte superior de una ventana tiene forma de semicírculo, como se muestra en la figura. Si el diámetro es de 2 m que área tiene el vidrio que cubre la ventana. Tener en cuenta que no se trata de un círculo completo.
+
+::: figure
+![](../images/geometria/area_ventana_semicircular.jpg){width=250px}
+:::
+
+**d)** **Problema desafío (no obligatorio)**: Un campo tiene un **corral rectangular** de 12 m de largo y 8 m de ancho. Dentro del corral hay un **tanque circular** cuyo diámetro mide 4 m. El resto del corral se quiere cubrir con pasto. ¿Cuántos metros cuadrados de pasto se necesitan?
+
+:::
+
+
 <!-- *** GUIDE END *** -->
 
 
