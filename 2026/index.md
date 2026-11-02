@@ -17,16 +17,17 @@ version: "01/03/26"
 
 **Criterios de aprobación de la materia**
 
+**Resumen:** Tener aprobadas todas las alternancias y todas las pruebas.
+
+**En detalle:**
+
 - **Cuatrimestre 1:** Tener **A** (Aprobado) en Bimestre 1 y 2
    + **Bimestre 1:** Tener **A** en Alt. 1, Alt. 2 y Prueba 1
    + **Bimestre 2:** Tener **A** en Alt. 3, Alt. 4 y Prueba 2.
 
-<div hidden>
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
-   + **Bimestre 3:** Tener **A** en Guía 8 (Alt. 4), Guía 9 (Alt. 5), Guía 11 (Alt 6) y Prueba 3
-   + **Bimestre 4:** Tener **A** en Guía 14 (Alt. 8) y pruebas 4 y 5
-</div>
-
+   + **Bimestre 3:** Tener **A** en Alt. 5, Alt. 6 y Prueba 3
+   + **Bimestre 4:** Tener **A** en Alt. 7, Alt 8 y Prueba 4
 
 </div>
 
@@ -48,26 +49,8 @@ version: "01/03/26"
 
 - [6. Geometría y medidas](06_geometria.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 6: Ejercicios de los temas 1 al 3.<br>&emsp; Tarea de alternancia 7: Ejercicios de los puntos 5 (Área y perímetro de rectángulos y triángulos) y 6 (Área de figuras circulares). No tienen autocorrección.<br><br></div>
 
+- [7. Estadística y razonamiento](07_estadistica.html) <br><div class="grey3 size80">&emsp; Tarea Alternancia 8: Ejercicios de los temas 1 y 2. No tienen autocorrección.<br><br></div>
 
-<div hidden>
-- [6. Potencias y raíces (Alternancia 3)](06_potencia_raiz.html)
-
-- [7. Propiedades de las potencias y raíces](07_potencia_propiedades.html)
-
-- [8. Números racionales - parte 1 (Alternancia 4)](08_numeros_racionales.html)
-
-- [9. Números racionales - parte 2 (Alternancia 5)](09_numeros_racionales2.html)
-
-- [10. Repaso de números racionales](10_numeros_racionales3.html)
-
-- [11. Fracciones y porcentajes (Alternancia 6)](11_numeros_racionales4.html)
-
-- [12. Porcentajes y regla de tres simple](12_porcentajes_regla3.html)
-
-- [13. Integrar fracciones, porcentajes y regla de 3 (Alternancia 7)](13_integrar_racionales_porcentajes_regla3.html)
-
-- [14. Área y perímetro (Alternancia 8)](14_geom_area_perimetro.html)
-</div> <!-- cierra el hidden de los contenidos -->
 
 <span hidden>Fin archivo</span>
 
