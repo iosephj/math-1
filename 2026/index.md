@@ -17,9 +17,7 @@ version: "01/03/26"
 
 **Criterios de aprobación de la materia**
 
-**Resumen:** Tener aprobadas todas las alternancias y todas las pruebas.
-
-**En detalle:**
+Tener aprobadas todas las alternancias y todas las pruebas. En detalle:
 
 - **Cuatrimestre 1:** Tener **A** (Aprobado) en Bimestre 1 y 2
    + **Bimestre 1:** Tener **A** en Alt. 1, Alt. 2 y Prueba 1
